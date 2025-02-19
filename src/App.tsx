@@ -19,9 +19,9 @@ const dishes = [
   },
   {
     id: 3,
-    name: "Frite poulet",
-    description: "Délicieux poulet frit croustillant servi avec des frites dorées et une sauce maison.",
-    image: "/frite.jpg",
+    name: "Sauce arachide",
+    description: "Savoureuse sauce à base de pâte d'arachide, mijotée avec de la viande tendre et des épices parfumées.",
+    image: "/sauce arachide.jpg",
     category: "Traditionnel"
   },
   {
